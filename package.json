@@ -14,7 +14,7 @@
   "author": "Nolan Lawson <nolan.lawson@gmail.com> (https://nolanlawson.com)",
   "license": "Apache-2.0",
   "dependencies": {
-    "fsdown": "https://github.com/jan-j/fsdown.git#2.1.0",
+    "fsdown": "https://github.com/jan-j/fsdown/archive/v2.1.0.tar.gz",
     "js-extend": "^1.0.1",
     "pouchdb-adapter-leveldb-core": "6.2.0"
   },
@@ -41,5 +41,5 @@
     "type": "git",
     "url": "https://github.com/pouchdb-community/pouchdb-adapter-fs.git"
   },
-  "version": "2.1.0"
+  "version": "2.1.1"
 }
